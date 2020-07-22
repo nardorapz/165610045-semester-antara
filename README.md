@@ -3,6 +3,7 @@
 # Nim  : 165610045
 
 * mnggu-01 gambaran umum TCC.md
+
 Secara gambaran Umum, Cloud Computing (Komputasi Awan) merupakan gabungan pemanfaatan teknologi komputer (komputasi) dalam suatu jaringan dengan pengembangan berbasis internet (awan) yang mempunyai fungsi untuk menjalankan program atau aplikasi melalui komputer – komputer yang terkoneksi pada waktu yang bersamaan, tetapi tidak semua yang dapat  terkoneksi melalui internet menggunakan Cloud Computing.
 
 Teknologi komputer berbasis sistem Cloud ini merupakan sebuah teknologi yang menjadikan internet sebagai pusat server untuk mengelola data dan juga aplikasi pengguna. Cloud Computing yang datanya disimpan dalam server bersifat permanen artinya semua pengguna dapat mengakses secara bersamaan melalui akses internet, dan menggunakan datanya juga secara bersamaan. Untuk saat ini Cloud Computing menjadi sebuahTren Tekhnologi, dimana setiap orang akan melakukan penyimpanan datanya melalui Cloud Computing karena dengan menggunakan Cloud Computing data maka semua datanya akan aman karena terproteksi. Cloud Computing untuk perusahaan-perusahaan besar saat ini banyak digunakan, karena memang sengaja digunakan karena agar setiap pengguna dapat mengakses data kapan saja dan dimana saja tanpa batas yang terpenting adanya koneksi internet.
