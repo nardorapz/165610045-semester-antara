@@ -10,5 +10,4 @@ Teknologi komputer berbasis sistem Cloud ini merupakan sebuah teknologi yang men
 
 Cloud Computing sendiri sebenarnya merupakan hasil dari evolusi yang berlangsung secara bertahap. Sebelum Cloud Computing mulai booming seperti sekarang ini, terlebih dahulu terjadi beberapa fenomena seperti virtualisasi, grid computing, ASP / application service provision dan juga Software as a service atau yang lebih dikenal pula dengan sebutan SaaS. Sebenarnya, pada tahun 60 an pun sudah mulai muncul konsep yang menyatukan beberapa sumber computing dengan menggunakan jaringan yang bersifat global. Pada saat itu, sistem seperti ini disebut dengan “Intergalactic Computer Network”. Sistem ini diciptakan oleh J.C.R. Licklider yang kemudian menjadi penanggung jawab atas pembangunan Advanced Research Projects Agency Network (ARPANET) tepatnya pada tahun 1969. Licklider memiliki sebuah cita-cita dimana ia ingin setiap orang di dunia ini mampu terhubung satu sama lain dan mampu mengakses data serta program dari berbagai sistus dan dari berbagai tempat.
 
-minggu-02
-https://github.com/nardorapz/165610045-semester-antara/commit/4c41738af6e87fc8e1ea41ac3fc86284aa05dbd9
+*minggu-02/software as a servce.md 
