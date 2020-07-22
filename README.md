@@ -1,1 +1,3 @@
-# 165610045-semester-antara
+# Semester-antara
+# Nama : Raenandus Leonardo Afiando
+# Nim  : 165610045
