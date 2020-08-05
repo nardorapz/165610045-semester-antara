@@ -5,3 +5,5 @@
 merangkum dan mempelajari tentang teori teknologi cloud computing yang berbasis layanan
 (*service*) serta bagaimana memanfaatkan berbagai layanan tersebut untuk membantu pekerjaan yang
 berhubungan dengan teknologi informasi serta aplikasinya
+
+https://github.com/nardorapz/165610045-semester-antara/tree/master/minggu-06
