@@ -6,5 +6,3 @@ merangkum dan mempelajari tentang teori teknologi cloud computing yang berbasis 
 (*service*) serta bagaimana memanfaatkan berbagai layanan tersebut untuk membantu pekerjaan yang
 berhubungan dengan teknologi informasi serta aplikasinya
 
-https://github.com/nardorapz/165610045-semester-antara/Data as a Service 17 dan 18.md
-
